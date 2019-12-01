@@ -2,8 +2,6 @@
 
 This is a quick transcript of the interview of Noam Chomsky by [Lex Fridman](https://www.linkedin.com/in/lexfridman). The interview has been published in [YouTube](https://www.youtube.com/watch?v=cMscNuSUy0I) as well as a [podcast](https://lexfridman.com/ai/). Everything that Professor Noam Chomsky said in the interview is really breathtaking. Some of the paragraphs may need to read two to three times to grasp its meaning. Take a good look at the parts concerning **neural networks** and **deep learning**. There is even a part which can be applied to physics and data based models. Enjoy! *Alfonso R. Reyes. The Woodlands, Texas.* Dec 01, 2019.
 
-
-
 <br/>
 
 ## Introduction by Lex Fridman
@@ -201,8 +199,6 @@ Thanks for listening to this conversation with Noam Chomsky, and thank you to ou
 [Ernest Becker]: https://en.wikipedia.org/wiki/Ernest_Becker
 [Woody Allen]: https://en.wikipedia.org/wiki/Woody_Allen
 
-
-
 <br/>
 
 ## Links
@@ -212,6 +208,3 @@ Article in LinkedIn: https://www.linkedin.com/pulse/transcript-interview-noam-ch
 Tweet: https://twitter.com/OilGains/status/1201204711904419840?s=20
 
 Text in Markdown: https://github.com/f0nzie/transcript_noam_chomsky_by_lex_fridman
-
-
-
