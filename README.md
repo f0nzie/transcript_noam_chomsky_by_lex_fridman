@@ -1,1 +1,1 @@
-/media/msfz751/2560p/insync/markdown/transcripts/noam_chomsky/Noam Chomsky-- Language, Cognition, and Deep Learning  - Artificial Intelligence (AI) Podcast.md
+./Noam Chomsky-- Language, Cognition, and Deep Learning  - Artificial Intelligence (AI) Podcast.md
