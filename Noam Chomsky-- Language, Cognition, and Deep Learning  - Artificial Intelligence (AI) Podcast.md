@@ -1,4 +1,16 @@
-# Noam Chomsky: Language, Cognition, and Deep Learning | Artificial Intelligence (AI) Podcast | Nov 29, 2019
+---
+title: Transcript of interview to Noam Chomsky by Lex Fridman
+author: Alfonso R. Reyes
+date: '2019-12-01'
+categories: [ai, artificial intelligence, transcript]
+typora-copy-images-to: ./assets
+---
+
+# Transcript of interview to Noam Chomsky by Lex Fridman
+
+![by Lex Fridman](assets/Noam%20Chomsky--%20Language,%20Cognition,%20and%20Deep%20Learning%20%20-%20Artificial%20Intelligence%20(AI)%20Podcast/0.png)
+
+## Noam Chomsky: Language, Cognition, and Deep Learning | Artificial Intelligence (AI) Podcast | Nov 29, 2019
 
 This is a quick transcript of the interview of Noam Chomsky by [Lex Fridman](https://www.linkedin.com/in/lexfridman). The interview has been published in [YouTube](https://www.youtube.com/watch?v=cMscNuSUy0I) as well as a [podcast](https://lexfridman.com/ai/). Everything that Professor Noam Chomsky said in the interview is really breathtaking. Some of the paragraphs may need to read two to three times to grasp its meaning. Take a good look at the parts concerning **neural networks** and **deep learning**. There is even a part which can be applied to physics and data based models. Enjoy! *Alfonso R. Reyes. The Woodlands, Texas.* Dec 01, 2019.
 
